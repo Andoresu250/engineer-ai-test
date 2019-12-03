@@ -1,0 +1,1 @@
+Figaro.require_keys('DEVISE_JWT_SECRET_KEY')
